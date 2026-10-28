@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/spark-proxyuser-classpath">spark-proxyuser-classpath</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/spark-proxyuser-classpath"><strong>https://abraxaslabs.tech/research/spark-proxyuser-classpath</strong></a>
+</p>
+
 
 # spark-proxyuser-classpath
 
